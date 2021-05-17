@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600915799 source:c:\users\ishan\downloads\computer graphics lab\computer graphics project\main.c
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+
